@@ -1,4 +1,4 @@
-export default[
+[
     {
         "_id": "1",
         "user": "121",
@@ -113,5 +113,5 @@ export default[
         "_id": "23",
         "user": "123",
         "course": "RS102"
-    },
-];
+    }
+]

@@ -1,4 +1,4 @@
-export default[
+[
     {
         "_id": "1",
         "student": "121",
@@ -412,5 +412,5 @@ export default[
         "student": "127",
         "assignment": "A303",
         "grade": "78"
-    },
-];
+    }
+]
